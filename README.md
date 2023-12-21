@@ -1,4 +1,4 @@
-## CLICK-[Check-Demo-Here](https://geek-quotes.vercel.app/)
+## Click-[Check-Demo-Here](https://geek-quotes.vercel.app/)
 
 # Getting Started with Create React App
 
